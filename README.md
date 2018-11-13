@@ -22,3 +22,5 @@ Production chinese verification code
 我的博客原文：https://blog.csdn.net/qq_37100442/article/details/84034983 
 
 python版本：2.7
+
+python Production_verification_code.py --out_dir ./dataset  --font_dir ./chinese_fonts --width 30 --height 30 --margin 4 --rotate 30 --rotate_step 1
